@@ -1,7 +1,6 @@
 # Effective-Accident-Detection-and-Prevention-System
 Effective Accident Detection and Prevention System. Project developed and presented at WCE_HACKATHON 2019.
 
-
 Steps to run the various modules of our system:
 
 1) Web Server (Django-Python): python manage.py runserver <ip_addr>:<port>
